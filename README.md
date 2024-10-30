@@ -1,5 +1,6 @@
 # bus-card-front-end-react-native
 
+YouTube : https://youtu.be/WskbmguiQ2c?si=6X8g5hEVtXWxB8HZ 
 
 React Native ile küçük denemeler. Özellikle hızlı ve kararlı uygulamalar geliştirme aşamasında, TypeScript dili ile birlikte geniş bir kütüphane desteği olması açısından React Native iyi bir seçenek olarak karşımıza çıkıyor. Özellikle son sürüm güncellemelerinden sonra derleme, uygulama boyutu, performans açısından ciddi yenilikler bulunuyor.
 
